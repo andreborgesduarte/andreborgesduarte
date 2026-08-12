@@ -12,18 +12,18 @@ Desenvolvedor(a) Front-end em início de carreira, focado(a) em criar interfaces
 
 ## 🚀 Meus Projetos
 
-### 📱 [Nome do Projeto 1](./link-do-repositorio)
-* **Descrição:** Uma página responsiva desenvolvida para praticar flexbox e manipulação de DOM.
-* **Tecnologias:** HTML, CSS, JavaScript
-* **Demo:** [Ver Projeto Online](https://seu-usuario.github.io/nome-do-projeto)
+### 📱 [Nome do Projeto 1](https://github.com/seu-usuario/nome-do-repositorio-1)
+* **Descrição:** Uma página responsiva desenvolvida para praticar layout flexbox e manipulação de DOM.
+* **Tecnologias:** HTML5, CSS3, JavaScript
+* **Demo:** [Ver Projeto Online](https://seu-usuario.github.io/nome-do-repositorio-1)
 
-### 🎨 [Nome do Projeto 2](./link-do-repositorio)
-* **Descrição:** Dashboard interativo de tarefas (To-Do List) com armazenamento local (localStorage).
-* **Tecnologias:** HTML, CSS, JavaScript
-* **Demo:** [Ver Projeto Online](https://seu-usuario.github.io/nome-do-projeto-2)
+### 🎨 [Nome do Projeto 2](https://github.com/seu-usuario/nome-do-repositorio-2)
+* **Descrição:** Aplicativo de lista de tarefas (To-Do List) interativo com persistência em localStorage.
+* **Tecnologias:** HTML5, CSS3, JavaScript
+* **Demo:** [Ver Projeto Online](https://seu-usuario.github.io/nome-do-repositorio-2)
 
 ---
 
 ## 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **LinkedIn:** [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
 - **E-mail:** seu.email@exemplo.com
